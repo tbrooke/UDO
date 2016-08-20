@@ -7,9 +7,8 @@ Composable, verifiable, shareable form contracts for the modern practice of law
 
 Common Form was developed by Kyle Mitchell. "It takes the form of software, but in personal terms, it’s my bid for a way to practice law that pangs neither my conscience nor my stomach." @hyperlink["https://writing.kemitchell.com/2015/02/09/Common-Form.html"]{/dev/lawyer} Kyle Mitchell's Blog
 
-@section[#:tag ""]{The aim of Common Form is twofold.}
 
-This is the core design principle of Pollen. Consistent with this principle, Pollen adopts the habits of software development in its functionality, workflow, and project structure.
+@section[#:tag ""]{The aim of Common Form is twofold.}
 
 @itemlist[
 
