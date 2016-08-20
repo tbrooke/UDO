@@ -1,7 +1,7 @@
 
 # Commonform Documentation in Pollen
 
-Common Form documentation is written with Pollen, a publishing language written with Racket and based on Scribble the Racket documentation language. Pollin was developed by Matthew Butterick as a book publishing system.
+Common Form documentation is written with Pollen, a publishing language written with Racket and based on Scribble the Racket documentation language. [Pollen](http://docs.racket-lang.org/pollen/) was developed by Matthew Butterick as a book publishing system. The actual Common Form manual uses [scribble] which is callable from pollen and uses the excellent Pollen server develped by Matthew Butterick 
 
 The documentation is hosted on Github as a Github page. So to change or modify the documentation simply push your modification to the gh-pages branch. The pollen output is pure HTML easily hosted on a Github page.  
 
@@ -10,7 +10,7 @@ The documentation is hosted on Github as a Github page. So to change or modify t
 
 Download and install Racket, which includes DrRacket. (Of course, you’re welcome to use your preferred text editor, but the tutorials will assume you’re using DrRacket.)
 
-Linux aDownload and install Racket, which includes DrRacket. (Of course, you’re welcome to use your preferred text editor, but the tutorials will assume you’re using DrRacket.)
+Linux Download and install Racket, which includes DrRacket. (Of course, you’re welcome to use your preferred text editor, but the tutorials will assume you’re using DrRacket.)
 
 Linux and OS X users: update your system PATH to include "/path-to-racket-installation/bin/". Then, from the terminal, you’ll be able to run racket and raco (see raco: Racket Command-Line Tools).
 
@@ -46,4 +46,6 @@ To check that it worked, try typing raco pollen test on the command line, and yo
 raco pollen is installed correctly
 
 ~ :
+
+
 
