@@ -400,7 +400,6 @@ a:hover {
     top: 0rem;
     width: 14rem;
     padding: 7rem 0.5rem 0.5rem 0.5rem;
-    background-color: hsl(216, 15%, 70%);
     margin: 0;
 
 }
@@ -444,7 +443,6 @@ a:hover {
 .tocset td a.tocviewselflink {
     font-weight: lighter;
     font-size: 110%; /* monospaced styles below don't need to enlarge */
-    color: white;
 }
 
 .tocviewselflink {
