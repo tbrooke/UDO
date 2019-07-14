@@ -1,5 +1,5 @@
 
-# China Grove NC  Unified Development Ordinancen
+# China Grove, NC  Unified Development Ordinance
 
 
 ## Installation Instructions for Racket and Pollen
