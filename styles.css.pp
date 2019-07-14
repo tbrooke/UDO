@@ -5,7 +5,7 @@ body {
 	font-family: 'Alegreya Sans', sans-serif;
 	text-align: center;
 	padding: 50px;
-  font-size: 22px;
+  font-size: 24px;
 }
 
 .container {

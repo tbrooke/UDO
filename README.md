@@ -14,8 +14,6 @@ Linux and OS X users: update your system PATH to include "/path-to-racket-instal
 
 OS X users who haven’t altered your PATH before: don’t panic. You need to add the full path to Racket’s bin directory to the "/etc/paths" file on your system. You can do this with the following terminal command (which will ask you for your password):
 
-sudo sh -c 'echo "/Applications/Racket v6.6/bin" >> /etc/paths'
-Of course, "/Applications/Racket v6.6/bin" should be changed if necessary to represent the actual location and version of your Racket installation.
 
 To check that you did it correctly, try typing racket on your command line, and you should see something like this:
 
@@ -43,7 +41,6 @@ To check that it worked, try typing raco pollen test on the command line, and yo
 
 raco pollen is installed correctly
 
-~ :
 
 
 
